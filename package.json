@@ -1,0 +1,27 @@
+{
+    "name": "Mobiel-Dieren-Nieuwssite",
+    "version": "1.0.0",
+    "description": "Mobiele Dieren Nieuwssite",
+    "main": "app.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+    "Mobile",
+    "Nieuws",
+    "Dieren",
+    "node",
+    "express"
+  ],
+    "author": "Nico Csanyi",
+    "license": "ISC"
+},
+"homepage": "",
+"dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+}
+}
