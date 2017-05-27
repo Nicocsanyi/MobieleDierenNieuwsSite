@@ -10,9 +10,9 @@
         "start": "node app.js"
     },
     "keywords": [
-    "Mobile",
-    "Nieuws",
-    "Dieren",
+    "mobiel",
+    "nieuws",
+    "dieren",
     "node",
     "express"
   ],
