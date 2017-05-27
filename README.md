@@ -1,2 +1,2 @@
 # Mobiele Dieren Nieuwssite
-# Nico Csanyi
+Nico Csanyi
