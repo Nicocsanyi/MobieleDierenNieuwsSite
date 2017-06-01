@@ -1,7 +1,7 @@
 {
-    "name": "Mobiel-Dieren-Nieuwssite",
+    "name": "Mobiel-Adamuseum-Site",
     "version": "1.0.0",
-    "description": "Mobiele Dieren Nieuwssite",
+    "description": "Mobiel Adamuseum Site",
     "main": "app.js",
     "directories": {
         "test": "test"

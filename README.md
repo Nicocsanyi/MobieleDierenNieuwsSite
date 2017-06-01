@@ -1,2 +1,2 @@
-# Mobiele Dieren Nieuwssite
+# Mobiel Adamuseum Site
 Nico Csanyi

@@ -5,11 +5,6 @@ body {
     text-align: center;
 }
 
-.datum {
-    font-weight: bold;
-    color: #337ab7
-}
-
 .samenvatting {
     font-family: italic;
 }
@@ -36,4 +31,14 @@ footer {
     border-top: 1px solid black;
     margin: 5px;
     padding: 5px;
+}
+
+.index a {
+    font-weight: 800;
+    color: red;
+}
+
+.index p.datum {
+    font-weight: 400;
+    color: red;
 }
